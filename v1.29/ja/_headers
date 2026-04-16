@@ -1,0 +1,18 @@
+Link: </images/favicon.png>; rel=preload; as=image
+  Link: </css/callouts.css>; rel=preload; as=style
+  Link: </css/styles.css>; rel=preload; as=style
+  Link: </js/script.js>; rel=preload; as=script
+/v1.29/ja/case-studies/appdirect/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/case-studies/chinaunicom/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/case-studies/nav/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/case-studies/nordstrom/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/case-studies/sos/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/case-studies/spotify/
+  Link: </css/case_study_styles.css>; rel=preload; as=style
+/v1.29/ja/community/code-of-conduct/
+  Link: </css/community.css>; rel=preload; as=style
